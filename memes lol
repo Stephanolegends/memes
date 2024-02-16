@@ -1,0 +1,13 @@
+meme_dict = {
+    "doxear":"robar informacion de una persona",
+    "campear":"estar escondido en un lugar y matar alas personas",
+    "toxico":"ser una persona que hace emotes",
+    "espaldear":"matar alas personas por atras"}
+    
+    
+    
+    
+    word = input("Escribe una palabra que no entiendas (¡con mayúsculas!): ")
+    if worl in (meme_dict[worl])
+    else:
+    print("Yo no se lol")
